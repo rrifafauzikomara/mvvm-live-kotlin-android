@@ -9,10 +9,10 @@
 ### Petunjuk menjalankan source code aplikasi
 
 Untuk menjalankan source code aplikasi ini, anda perlu registrasi API KEY dari www.themoviedb.org
-kemudian memasukkan API KEY yang telah didapat ke dalam file ***gradle.properties***
+kemudian memasukkan API KEY yang telah didapat ke dalam file ***GitsApiService.kt*** pada package ***data\source\remote***
 
 ```
-MovieDbApiKey="Masukan API KEY anda disini"
+@GET("https://api.themoviedb.org/3/discover/movie?api_key=Masukan API KEY anda disini&sort_by=popularity.desc")
 ```
 
 ## Author
