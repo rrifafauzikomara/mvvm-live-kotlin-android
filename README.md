@@ -3,7 +3,7 @@
 ### Screenshots Aplikasi
 
 <pre>
-<img src="Screenshot/Screenshot_20180829-163432_Catalogue Film.jpg" width="250" height="444">         <img src="Screenshot/Screenshot_20180829-163457_Catalogue Film.jpg" width="250" height="444">
+<img src="Screenshot/Screenshot_20181206-205923_Mobile Payslip.jpg" width="250" height="444">         <img src="Screenshot/Screenshot_20181206-205931_Mobile Payslip.jpg" width="250" height="444">
 </pre>
 
 ### Petunjuk menjalankan source code aplikasi
